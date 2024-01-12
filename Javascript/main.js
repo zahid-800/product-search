@@ -1,7 +1,7 @@
 function search(){
     let fillter=document.getElementById('find').Value.toUpperCase();
     let item=document.querySelectorAll('.product');
-    let x=document.getElementsByTagName('h3');
+    let I=document.getElementsByTagName('h3');
     
 
     for(var i =0; i<=i. length; i++){
